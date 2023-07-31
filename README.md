@@ -9,15 +9,6 @@
 4) Results Storage: The sentiment analysis results are stored alongside the app reviews in the CSV files. This organized storage allows for easy access and further analysis.
 5) Overall Sentiment Prediction: By analyzing the sentiment distribution from the reviews, we make an overall sentiment prediction for each app. This prediction aids in understanding the app's sentiment as a whole.
 
-## Getting Started
-### To use TrustVerity, follow these steps:
-1) Clone the repository to your local machine.
-2) Install the required dependencies using the provided requirements.txt file.
-3) Run the data collection script to gather app reviews from the Google Play Store.
-4) Classify the apps based on ratings, last update date, and reviews to distinguish between "fraud" and "safe" apps.
-5) Conduct sentiment analysis on the reviews using the pre-trained sentiment analysis model.
-6) View the sentiment analysis results and overall app sentiments in the generated CSV files.
-
 ## Requirements
 ### To run TrustVerity - Verifying App Authenticity through Sentiment Analysis, you will need the following:
 1) Python: TrustVerity is primarily developed using Python, and you will need a compatible version of Python installed on your system to execute the scripts and run the web application.
